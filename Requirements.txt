@@ -9,8 +9,8 @@
 ipython\
 matplotlib\
 streamlit\
-transformers\
-torch\
+transformers==4.45.2\
+torch==2.2\
 tokenizers\
 tensorflow\
 pandas\

@@ -2,7 +2,7 @@ numpy
 ipython
 matplotlib
 streamlit
-transformers
+transformers==4.45.2
 torch==2.2
 tokenizers
 tensorflow

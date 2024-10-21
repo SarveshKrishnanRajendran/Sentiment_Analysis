@@ -2,7 +2,8 @@
 # coding: utf-8
 
 # In[ ]:
-
+import sys
+sys.path.append('/home/appuser/.local/lib/python3.10/site-packages')
 import os
 os.system('pip install transformers')
 

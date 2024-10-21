@@ -2,8 +2,6 @@
 # coding: utf-8
 
 # In[ ]:
-import os
-os.system('pip install transformers')
 
 
 
